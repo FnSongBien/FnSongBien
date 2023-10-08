@@ -1,4 +1,4 @@
- 📧:transongbien129@gmail.com
+📧: transongbien129@gmail.com
 
 <!---
 FnSongBien/FnSongBien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
