@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @FnSongBien
-- 👀 I’m interested in 💻
-- 🌱 I’m currently learning⌨️
-- 💞️ I’m looking to collaborate 🖥️
-- 📫 How to reach me 📞
+Gmail: transongbien129@gmail.com
 
 <!---
 FnSongBien/FnSongBien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
